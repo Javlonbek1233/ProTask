@@ -1,0 +1,6 @@
+{
+  "name": "To-do List & Daily Planner",
+  "description": "Zamonaviy va qulay \"To-do List / Daily Planner\" web ilovasi. Vazifalar qo‘shish, tahrirlash, o‘chirish, muddat (deadline), prioritetlar, qidiruv tizimi, filterlar, statistika va qorong‘u rejim (dark mode).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
